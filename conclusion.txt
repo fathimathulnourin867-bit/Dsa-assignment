@@ -1,0 +1,9 @@
+FINAL CONCLUSION
+
+The tree structure is suitable for representing the organizational hierarchy.
+
+Linear Search has O(n) time complexity.
+
+Binary Search has O(log n) time complexity and is faster for searching a sorted array.
+
+Therefore, the tree is suitable for representing the hierarchy and binary search is suitable for faster department searching.

@@ -1,0 +1,6 @@
+COMPARISON TABLE
+
+Department     Linear Search     Binary Search
+IT                  6                  2
+Frontend            4                  3
+Testing             7                  3

@@ -1,0 +1,5 @@
+Level Order: CEO HR Finance IT Development Testing Frontend Backend
+
+Enter department to search: Frontend
+Linear Search Comparisons: 4
+Binary Search Comparisons: 3

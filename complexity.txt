@@ -1,0 +1,7 @@
+COMPLEXITY ANALYSIS
+
+Tree Height: 3 levels
+
+Level-order Traversal: O(n)
+Linear Search: O(n)
+Binary Search: O(log n)
